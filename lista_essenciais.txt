@@ -1,0 +1,6 @@
+lentes de contacto: dias + cautela + (dias//5 * cautela)
+boxers: dias + cautela + dias // 4
+t-shirts: dias + cautela + dias // 4
+calcas: 2 + dias // 10
+sweats: min(dias // 5 + 2, 4)
+casacos: min(dias // 4 + 1, 3)

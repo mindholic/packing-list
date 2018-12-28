@@ -1,0 +1,9 @@
+protetor solar: 1
+meias curtas: dias * (max(1, dias//5 * cautela, cautela))
+meias longas: dias // 6
+calcoes: min(dias // 6 + 2, 4)
+calcoes de banho: min(2, dias // 3 + 1)
+toalha de praia: 1
+chapeu de praia: 1
+raquetes: 1
+repelente: 1
